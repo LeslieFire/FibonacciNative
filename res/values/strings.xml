@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FibonacciNative</string>
+    <string name="hello">Get your fibonacci Numbers here!</string>
+    <string name="fibJR">fibJR</string>
+    <string name="fibJI">fibJI</string>
+    <string name="fibNR">fibNR</string>
+    <string name="fibNI">fibNI</string>
+    <string name="button">Get fibonacci result!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
